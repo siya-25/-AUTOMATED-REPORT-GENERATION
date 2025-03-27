@@ -22,3 +22,8 @@ The project is executed in Jupyter Notebook, an interactive coding environment, 
 This project has various real-world applications. In healthcare, it can help doctors and researchers analyze diabetes-related data quickly and efficiently. In academia, students and data analysts can use it to explore and interpret datasets without manually calculating statistics and creating charts. Businesses can also apply similar automation techniques to generate data-driven reports in fields such as finance, sales, and research. Since the script is reusable, it can be applied to different datasets with minimal modifications, making it an efficient and scalable solution.
 
 To run this project successfully, three Python libraries are required: Pandas, Matplotlib, and ReportLab, which can be installed using the command pip install pandas matplotlib reportlab. The diabetes.csv file should be placed in the same directory as the script before execution. Running the script will generate a PDF report, which presents the statistical insights in an easy-to-read format. This project demonstrates the power of Python automation in data analysis and reporting, helping to reduce manual effort, improve accuracy, and make data interpretation faster and more efficient. It is a useful tool for anyone working with data, whether in healthcare, business, or academic research.
+
+
+#OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1b57f696-9690-47a8-9934-7def499cac1b)

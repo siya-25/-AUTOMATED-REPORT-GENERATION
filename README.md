@@ -1,30 +1,5 @@
 AUTOMATED-REPORT-GENERATION
 
-COMPANY : CODTECH IT SOLUTIONS
-
-NAME : SIYA PAGAR
-
-INTERN ID : CT04WN39
-
-DOMAIN : PYTHON PROGRAMMING
-
-DURATION : 4 WEEKS
-
-MENTOR : NEELA SANTOSH
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 This project focuses on using Python to analyze diabetes data and generate an automated PDF report. The main goal is to simplify data analysis and presentation by automating calculations and visualizations. Various Python libraries are used to achieve this. Pandas is used for reading the CSV file and calculating key statistics such as mean, median, and standard deviation, which help in understanding the data distribution. To visualize the data, Matplotlib is used to create histograms and a correlation heatmap. The histograms display the distribution of Blood Glucose Levels and BMI, while the heatmap helps in identifying relationships between different features. Finally, ReportLab is used to compile the statistics and visualizations into a structured PDF report, making it easier to analyze the data.
 
 The project is executed in Jupyter Notebook, an interactive coding environment, but it can also run in VS Code, PyCharm, or directly from the command line. The process starts by reading the diabetes dataset, then performing statistical analysis, followed by generating visualizations, and finally creating a PDF report that includes both numerical summaries and graphs. The generated PDF report is saved in the same directory as the script and can be viewed using any PDF reader.
